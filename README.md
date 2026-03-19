@@ -35,7 +35,7 @@ A practical guide to implementing a CI/CD pipeline using Jenkins.
 - Monitoring build history
 - Pipeline overview
 
-📄 [View Document](Setting-up-CI/CD-with-Jenkins.md)
+📄 [View Document](Setting-up-CICD-with-Jenkins.md)
 
 ---
 
