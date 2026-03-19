@@ -20,7 +20,7 @@ A step-by-step guide to containerizing and running a Node.js application using D
 - Exposing ports
 - Deploying to the cloud
 
-📄 [View Document](Deploying-a-Nodejs-Application-with-Docker.md)
+📄 [View Document](../Deploying-a-Nodejs-Application-with-Docker.md)
 
 ---
 
@@ -35,7 +35,7 @@ A practical guide to implementing a CI/CD pipeline using Jenkins.
 - Monitoring build history
 - Pipeline overview
 
-📄 [View Document](Setting-up-CI/CD-with-Jenkins.md)
+📄 [View Document](../Setting-up-CI/CD-with-Jenkins.md)
 
 ---
 
