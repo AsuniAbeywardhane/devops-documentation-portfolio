@@ -82,5 +82,3 @@ I focus on creating guides that simplify complex workflows and make them easy to
 I am available for freelance technical documentation work.
 
 Feel free to reach out via GitHub or Fiverr.!
-
-# devops-documentation-portfolio
